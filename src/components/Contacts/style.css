@@ -1,0 +1,26 @@
+#contact_list {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: left;
+}
+
+.btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 48%;
+    padding: 10px;
+
+}
+
+#space {
+    border-bottom: 10px solid black;
+}
+
+#test {
+    background-color: #7744ee;
+    color: gold;
+}
+
+
